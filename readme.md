@@ -21,4 +21,5 @@ ex: origin = https://github.com/nteej/mastering_git.git
     origin_bb = bitbucket path
     origin_gl = GitLab path
 
+$ git checkout -b <branch_name>
 ```
